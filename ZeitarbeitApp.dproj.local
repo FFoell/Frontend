@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.234,C:\Users\PC Klinik\Desktop\Softwareprojekt-SoSe-2020\LoginFrame.pas=C:\Users\PC Klinik\Desktop\App\LoginFrame.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.579,=C:\Users\PC Klinik\Desktop\Softwareprojekt-SoSe-2020\LoginFrame.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.787,C:\Users\PC Klinik\Desktop\App\Unit4.fmx=C:\Users\PC Klinik\Desktop\App\Login.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.010,C:\Users\PC Klinik\Documents\Embarcadero\Studio\Projekte\Project3.dproj=C:\Users\PC Klinik\Desktop\App\ZeitarbeitApp.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,C:\Users\PC Klinik\Desktop\App\Login.pas=C:\Users\PC Klinik\Desktop\Softwareprojekt-SoSe-2020\Login.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.776,C:\Users\PC Klinik\Desktop\App\Login.fmx=C:\Users\PC Klinik\Desktop\Softwareprojekt-SoSe-2020\Login.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.234,C:\Users\PC Klinik\Desktop\Softwareprojekt-SoSe-2020\LoginFrame.fmx=C:\Users\PC Klinik\Desktop\App\LoginFrame.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.782,C:\Users\PC Klinik\Documents\Embarcadero\Studio\Projekte\Unit4.fmx=C:\Users\PC Klinik\Desktop\App\Unit4.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.491,C:\Users\PC Klinik\Desktop\App\LoginFrame.fmx=C:\Users\PC Klinik\Desktop\Softwareprojekt-SoSe-2020\LoginFrame.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.782,C:\Users\PC Klinik\Documents\Embarcadero\Studio\Projekte\Unit4.pas=C:\Users\PC Klinik\Desktop\App\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.283,=C:\Users\PC Klinik\Documents\Embarcadero\Studio\Projekte\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.491,C:\Users\PC Klinik\Desktop\App\LoginFrame.pas=C:\Users\PC Klinik\Desktop\Softwareprojekt-SoSe-2020\LoginFrame.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.787,C:\Users\PC Klinik\Desktop\App\Unit4.pas=C:\Users\PC Klinik\Desktop\App\Login.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.214,C:\Users\PC Klinik\Desktop\App\ZeitarbeitApp.dproj=C:\Users\PC Klinik\Desktop\Softwareprojekt-SoSe-2020\ZeitarbeitApp.dproj</Transaction>
+    <Transaction>2020.06.05 20:43:27.302,C:\Users\PC Klinik\Desktop\Frontend\ZeitarbeitApp.dproj=C:\Users\PC Klinik\Desktop\Softwareprojekt-SoSe-2020\ZeitarbeitApp.dproj</Transaction>
+    <Transaction>2020.06.05 20:43:48.711,C:\Users\PC Klinik\Desktop\Frontend\Login.fmx=C:\Users\PC Klinik\Desktop\Softwareprojekt-SoSe-2020\Login.fmx</Transaction>
+    <Transaction>2020.06.05 20:43:48.711,C:\Users\PC Klinik\Desktop\Frontend\Login.pas=C:\Users\PC Klinik\Desktop\Softwareprojekt-SoSe-2020\Login.pas</Transaction>
+    <Transaction>2020.06.05 20:44:00.692,C:\Users\PC Klinik\Desktop\Frontend\LoginFrame.pas=C:\Users\PC Klinik\Desktop\Softwareprojekt-SoSe-2020\LoginFrame.pas</Transaction>
+    <Transaction>2020.06.05 20:44:00.692,C:\Users\PC Klinik\Desktop\Frontend\LoginFrame.fmx=C:\Users\PC Klinik\Desktop\Softwareprojekt-SoSe-2020\LoginFrame.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android64="04d4a506d2cbd8a4" Android="04d4a506d2cbd8a4"/>
+	</ActiveMobileDevice>
+</BorlandProject>

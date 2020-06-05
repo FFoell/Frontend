@@ -1,0 +1,15 @@
+program ZeitarbeitApp;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  Login in '..\Softwareprojekt-SoSe-2020\Login.pas' {Form1Login},
+  LoginFrame in '..\Softwareprojekt-SoSe-2020\LoginFrame.pas' {Frame1: TFrame};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TForm1Login, Form1Login);
+  Application.Run;
+end.
