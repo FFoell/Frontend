@@ -1,0 +1,5 @@
+﻿object ZeitenÜbersicht: TZeitenÜbersicht
+  Size.Width = 320.000000000000000000
+  Size.Height = 545.000000000000000000
+  Size.PlatformDefault = False
+end

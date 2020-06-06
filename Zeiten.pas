@@ -1,0 +1,25 @@
+unit Zeiten;
+
+interface
+
+uses
+  System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants,
+  FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs, ZeitenFrame;
+
+type
+  TForm1 = class(TForm)
+    Zeiten‹bersicht1: TZeiten‹bersicht;
+  private
+    { Private-Deklarationen }
+  public
+    { Public-Deklarationen }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.fmx}
+
+end.

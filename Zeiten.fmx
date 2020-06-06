@@ -1,0 +1,17 @@
+﻿object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 675
+  ClientWidth = 417
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  inline ZeitenÜbersicht1: TZeitenÜbersicht
+    Align = Client
+    Size.Width = 417.000000000000000000
+    Size.Height = 675.000000000000000000
+    Size.PlatformDefault = False
+  end
+end
