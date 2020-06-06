@@ -1,4 +1,4 @@
-unit LoginFrame;
+unit DashbFrame;
 
 interface
 
@@ -9,28 +9,24 @@ uses
   FMX.Edit;
 
 type
-  TFrame1 = class(TFrame)
+  TDashboardFrame1 = class(TFrame)
     Kopfzeile: TToolBar;
     Label1: TLabel;
     Button1: TButton;
     Hintergrund: TImage;
     DrawerMultiView1: TMultiView;
     VertScrollBox1: TVertScrollBox;
-    Fußzeile: TLayout;
-    PasswortVergessenText: TText;
-    SupportText: TText;
-    LogoLayout: TLayout;
-    LogoImage: TImage;
-    FormLayout: TLayout;
-    BenutzernameEdit: TEdit;
-    PasswortEdit: TEdit;
+    ZurückButton: TButton;
+    GridPanelLayout1: TGridPanelLayout;
+    Rectangle1: TRectangle;
     Rectangle2: TRectangle;
     Rectangle3: TRectangle;
-    Rectangle4: TRectangle;
+    Image2: TImage;
     Image1: TImage;
-    Rectangle5: TRectangle;
-    Bestätigen: TLabel;
-    Layout1: TLayout;
+    Image3: TImage;
+    FotoHochladenText: TText;
+    PDFHochladenText: TText;
+    CheckInCheckOutText: TText;
   private
     { Private-Deklarationen }
   public

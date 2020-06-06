@@ -4,12 +4,18 @@ uses
   System.StartUpCopy,
   FMX.Forms,
   Login in 'Login.pas' {Form1Login},
-  LoginFrame in 'LoginFrame.pas' {Frame1: TFrame};
+  LoginFrame in 'LoginFrame.pas' {Frame1: TFrame},
+  Dashboard in 'Dashboard.pas' {Form2Dashboard},
+  DashbFrame in 'DashbFrame.pas' {DashboardFrame1: TFrame},
+  CheckIn in 'CheckIn.pas' {CheckInForm},
+  CheckInFrame in 'CheckInFrame.pas' {CheckInFrame1: TFrame};
 
 {$R *.res}
 
 begin
   Application.Initialize;
   Application.CreateForm(TForm1Login, Form1Login);
+  Application.CreateForm(TForm2Dashboard, Form2Dashboard);
+  Application.CreateForm(TCheckInForm, CheckInForm);
   Application.Run;
 end.

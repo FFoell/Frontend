@@ -383,6 +383,24 @@
             <FormType>fmx</FormType>
             <DesignClass>TFrame</DesignClass>
         </DCCReference>
+        <DCCReference Include="Dashboard.pas">
+            <Form>Form2Dashboard</Form>
+            <FormType>fmx</FormType>
+        </DCCReference>
+        <DCCReference Include="DashbFrame.pas">
+            <Form>DashboardFrame1</Form>
+            <FormType>fmx</FormType>
+            <DesignClass>TFrame</DesignClass>
+        </DCCReference>
+        <DCCReference Include="CheckIn.pas">
+            <Form>CheckInForm</Form>
+            <FormType>fmx</FormType>
+        </DCCReference>
+        <DCCReference Include="CheckInFrame.pas">
+            <Form>CheckInFrame1</Form>
+            <FormType>fmx</FormType>
+            <DesignClass>TFrame</DesignClass>
+        </DCCReference>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
