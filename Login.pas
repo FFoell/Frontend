@@ -21,8 +21,8 @@ type
     BenutzerAuthenticator: TSimpleAuthenticator;
     IdTCPClient1: TIdTCPClient;
     IdUDPClient1: TIdUDPClient;
-    IdIdent1: TIdIdent;
     Frame11: TFrame1;
+    IdIdent1: TIdIdent;
   private
     { Private-Deklarationen }
   public
