@@ -7,8 +7,8 @@ uses
   FMX.Types, FMX.Controls, FMX.Forms, FMX.Graphics, FMX.Dialogs, ZeitenFrame;
 
 type
-  TForm4Zeiten = class(TForm)
-    Zeiten‹bersicht1: TZeitenFrame1;
+  TForm1 = class(TForm)
+    Zeiten‹bersicht1: TZeiten‹bersicht;
   private
     { Private-Deklarationen }
   public
@@ -16,7 +16,7 @@ type
   end;
 
 var
-  Form4Zeiten: TForm4Zeiten;
+  Form1: TForm1;
 
 implementation
 

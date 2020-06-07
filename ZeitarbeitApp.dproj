@@ -402,12 +402,12 @@
             <DesignClass>TFrame</DesignClass>
         </DCCReference>
         <DCCReference Include="ZeitenFrame.pas">
-            <Form>ZeitenÜbersicht</Form>
+            <Form>ZeitenFrame1</Form>
             <FormType>fmx</FormType>
             <DesignClass>TFrame</DesignClass>
         </DCCReference>
         <DCCReference Include="Zeiten.pas">
-            <Form>Form1</Form>
+            <Form>Form4Zeiten</Form>
             <FormType>fmx</FormType>
         </DCCReference>
         <BuildConfiguration Include="Release">

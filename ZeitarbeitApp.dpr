@@ -9,8 +9,8 @@ uses
   DashbFrame in 'DashbFrame.pas' {DashboardFrame1: TFrame},
   CheckIn in 'CheckIn.pas' {CheckInForm},
   CheckInFrame in 'CheckInFrame.pas' {CheckInFrame1: TFrame},
-  ZeitenFrame in 'ZeitenFrame.pas' {Zeiten‹bersicht: TFrame},
-  Zeiten in 'Zeiten.pas' {Form1};
+  ZeitenFrame in 'ZeitenFrame.pas' {ZeitenFrame1: TFrame},
+  Zeiten in 'Zeiten.pas' {Form4Zeiten};
 
 {$R *.res}
 
@@ -19,6 +19,6 @@ begin
   Application.CreateForm(TForm1Login, Form1Login);
   Application.CreateForm(TForm2Dashboard, Form2Dashboard);
   Application.CreateForm(TCheckInForm, CheckInForm);
-  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TForm4Zeiten, Form4Zeiten);
   Application.Run;
 end.
